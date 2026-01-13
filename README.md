@@ -12,12 +12,6 @@ I'm a maintainer on NixOS/Nixpkgs and contribute to open source whenever I can.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matteo-pacini&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-pacini&layout=compact&theme=dracula&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matteo-pacini&theme=dracula&hide_border=true)
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matteo-pacini&theme=dracula)
 
 </div>
