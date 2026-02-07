@@ -8,16 +8,6 @@ I'm a maintainer on NixOS/Nixpkgs and contribute to open source whenever I can.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matteo-pacini&theme=dracula)
-
-</div>
-
----
-
 ### 🛠️ My Tech Stack
 
 Here are some of the technologies I'm proficient with:
