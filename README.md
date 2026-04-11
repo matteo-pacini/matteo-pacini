@@ -1,6 +1,6 @@
 ### Hi there, I'm Matteo 👋
 
-I'm a Senior/Lead iOS Developer with 12+ years building mobile apps.
+I'm a Senior/Lead iOS Developer with 13+ years building mobile apps.
 
 I work primarily with Swift, SwiftUI, and UIKit, and also write backend code in Go and Java.
 
