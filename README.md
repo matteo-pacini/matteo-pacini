@@ -4,7 +4,7 @@ I'm a Senior/Lead iOS Developer with 13+ years building mobile apps.
 
 I work primarily with Swift, SwiftUI, and UIKit, and also write backend code in Go and Java.
 
-I'm a maintainer on NixOS/Nixpkgs and contribute to open source whenever I can.
+Former nixpkgs maintainer. Nix user and fan, contributing to open source when I can.
 
 ---
 
